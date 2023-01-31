@@ -1,2 +1,1 @@
-# AstroPI
-# AstroPI
+# [AstroPI](https://astro-pi.org)
